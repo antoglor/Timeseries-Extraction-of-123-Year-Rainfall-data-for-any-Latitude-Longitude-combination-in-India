@@ -1,2 +1,2 @@
 # Jupyter-Notebook
-This contains .ipynb files mostlz related to spatial analysis
+This contains .ipynb files mostly related to spatial analysis
