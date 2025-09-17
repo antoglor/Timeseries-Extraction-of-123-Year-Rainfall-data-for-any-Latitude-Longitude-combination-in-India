@@ -1,4 +1,6 @@
 # Create timeseries of rainfall data since 1901 for any location in India
+
+![Rainfall change in Cities](images/stage1.png)
 ## Background
 In the Climate Crisis every location is affected differently at different times of the year. In the Indian scenario the rainfall pattern has changed considerably in the last decades with some parts of the country become drier and other become wetter and a different occurence of rainfall events. As an Urbanist I am interested to find out how the rainfall has changed over the years in any particular city where I am planning future infrastructure works. This notebook does exactly that. It helps anyone who finds it intriguing to download rainfall grided data since 1901 upto 2023 for any particular location. And analyse it to see how the rainfall has changed.
 
