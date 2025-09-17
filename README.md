@@ -1,6 +1,6 @@
 # Create timeseries of rainfall data since 1901 for any location in India
 
-![Rainfall change in Cities](Rainfall_full frame-01.png)
+![Rainfall change in Cities](Rainfall_full_frame-01.png)
 
 
 ## Background
